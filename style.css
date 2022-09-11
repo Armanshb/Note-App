@@ -1,0 +1,41 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: rgb(107, 119, 170);
+}
+#card-body
+{
+    background-color: whitesmoke;
+}
+#submit
+{
+    width: 90px;
+}
+.Texts ul li
+{
+    margin-top: 5px;
+    border-radius: 5px;
+}
+#ln
+{
+    font-size: 1.25rem;
+    font-weight: bolder;
+}
+#lb
+{
+    margin-left: 20px;
+    font-size: 1.1rem;
+}
+#lf
+{
+    font-size: 1.1rem;
+    margin-left: 20px;
+}
+#clear
+{
+    width: 90px;
+}
